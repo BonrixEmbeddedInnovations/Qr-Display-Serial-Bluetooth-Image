@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_backarrow.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/backarrow.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/font_open_sans_bold.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/font/open_sans_bold.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_fail.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_fail.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/layout_activity_btmain.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/layout/activity_btmain.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_facebook.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_mono.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/mono.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-mdpi_ic_notification.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_gradient_gray.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/gradient_gray.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_outline_email_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_outline_email_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_send_white_24dp.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_chatapata_192.bmp.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/chatapata_192.bmp"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_notification_bt.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_notification_bt.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_close_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_nqr.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_nqr.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_gradient_red.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/gradient_red.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_nqr2.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_nqr2.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_pin_drop_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_pin_drop_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_live_help_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_live_help_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/layout_activity_bluetooth.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/layout/activity_bluetooth.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_baseline_wifi_password_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/baseline_wifi_password_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/layout_device_list_item.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/layout/device_list_item.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_upload.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/layout_device_list_header.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/layout/device_list_header.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xxxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xxxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_success.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_success.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_phone_in_talk_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_phone_in_talk_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_edit_text_border.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/edit_text_border.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_whatsapp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bonrix.dynamicqrcode.app-merged_res-28:/menu_menu_bt_devices.xml.flat",
+        "source": "com.bonrix.dynamicqrcode.app-main-30:/menu/menu_bt_devices.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_youtube.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/youtube.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_background_5.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/background_5.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_baseline_settings_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_qr.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_qr.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/xml_usb_device_filter.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/xml/usb_device_filter.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/layout_device_bt_list_header.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/layout/device_bt_list_header.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-mdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-mdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_baseline_perm_phone_msg_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_baseline_perm_phone_msg_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_qr1.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_qr1.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_q1.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_q1.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/font_open_sans.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/font/open_sans.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-hdpi_ic_notification.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-hdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-hdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_upload_image_shape.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/upload_image_shape.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_baseline_settings_bluetooth_24.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/baseline_settings_bluetooth_24.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_edit.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_edit.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_new_qrcode.jpg.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_new_qrcode.jpg"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_newqr.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_newqr.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_pending.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_pending.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xxhdpi_ic_clear_white_24dp.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xxhdpi/ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable_ic_delete_white_24dp.xml.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable/ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-merged_res-28:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/Users/bhargavhada/.gradle/daemon/7.3.3/com.bonrix.dynamicqrcode.app-main-30:/drawable-xxxhdpi/ic_notification.png"
+    }
+]
